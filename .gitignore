@@ -36,3 +36,9 @@ vignettes/*.pdf
 rsconnect/
 *.zip
 *.csv
+scats_location_data/898c57e6-4c28-4ae4-9334-403c1ac040822020329-1-1b450pc.nk4u.cpg
+scats_location_data/898c57e6-4c28-4ae4-9334-403c1ac040822020329-1-1b450pc.nk4u.dbf
+scats_location_data/898c57e6-4c28-4ae4-9334-403c1ac040822020329-1-1b450pc.nk4u.prj
+scats_location_data/898c57e6-4c28-4ae4-9334-403c1ac040822020329-1-1b450pc.nk4u.shp
+scats_location_data/898c57e6-4c28-4ae4-9334-403c1ac040822020329-1-1b450pc.nk4u.shx
+processing_files/scats_data.fst
