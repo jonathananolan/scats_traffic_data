@@ -27,7 +27,8 @@ zip_files <- c("VSDATA_202001.zip",
                "VSDATA_202004.zip",
                "VSDATA_202005.zip",
                "VSDATA_202006.zip",
-               "VSDATA_202007.zip")
+               "VSDATA_202007.zip",
+               "VSDATA_202008.zip")
 
 #import the list of zip file we are interested in, and unzip them into CSV files. 
 map(zip_files,download_and_unzip)
